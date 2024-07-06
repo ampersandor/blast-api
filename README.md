@@ -1,5 +1,8 @@
 ## BlastAPI 1.0.0
 
+![image](https://github.com/ampersandor/blast-api/assets/57800485/e8855644-fb97-4a62-8fef-ec965692c31a)
+
+
 <details>
     <summary>Table of content</summary>
 
